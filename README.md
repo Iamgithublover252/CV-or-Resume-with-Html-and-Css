@@ -1,3 +1,3 @@
 # CV-or-Resume-with-Html-and-Css
 
-This is my background Resume.
+This is my  Resume.
